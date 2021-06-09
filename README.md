@@ -1,5 +1,5 @@
 # SVD
 Compressed and visualized the data using SVD
 
-This is the original image
+                 This is the original image
 ![image](https://user-images.githubusercontent.com/68617720/121372850-4278b500-c947-11eb-8124-92a2d387c980.png)
