@@ -1,4 +1,4 @@
-# SVD
+# Singular Value Decomposition
 Compressed and visualized the data using SVD
 
                  This is the original image
